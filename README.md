@@ -643,7 +643,3 @@ python build_informe_pdf.py             → outputs/informe_geopolitica_crudo.pd
 | **SHAP** | SHapley Additive exPlanations. Método de interpretabilidad basado en teoría de juegos que asigna a cada variable su contribución marginal a una predicción. |
 | **Volatilidad implícita** | Volatilidad esperada por el mercado de opciones, derivada del precio de las opciones. Distinta de la volatilidad histórica, calculada sobre precios pasados. |
 | **Colas gruesas** | Propiedad de una distribución con más probabilidad en los valores extremos de lo que predice la distribución normal. Los retornos financieros presentan esta característica de forma sistemática. |
-
----
-
-*Proyecto desarrollado como portfolio de candidatura al Máster en Finanzas Cuantitativas de AFI Madrid (promoción 2026). Todas las fuentes de datos son de acceso público. Los resultados son reproducibles ejecutando los notebooks en el orden indicado.*
